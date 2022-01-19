@@ -3,6 +3,8 @@ package main
 import (
 	"bufio"
 	"os"
+
+	. "helpers"
 )
 
 type Something struct {
